@@ -1,3 +1,27 @@
 .gtco-nav ul li.has-dropdown .dropdown {
-    width: 250px;
+  width: 250px;
+}
+
+small,
+.small {
+  font-size: 95%;
+  font-weight: bold;
+  margin-left: -50px;
+  color: black;
+}
+
+#gtco-features,
+#gtco-features-2,
+#gtco-products,
+#gtco-services,
+#gtco-subscribe,
+#gtco-footer,
+.gtco-section {
+  padding: 3em 0;
+}
+
+.gtco-nav a {
+  padding: 5px 10px;
+  color: #fff;
+  font-size: 28px;
 }
